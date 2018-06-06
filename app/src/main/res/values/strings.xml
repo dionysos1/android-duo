@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ProjectDuo</string>
+    <string name="title_activity_gun">gunActivity</string>
 </resources>
